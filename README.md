@@ -10,9 +10,9 @@ View quick updates for live IPL match
 
 ## How to use the extension
 
-1. Download the .zip from this repository. Remove screenshots folder(not important to the extension).
+1. Download the .zip from this repository. Unzip the file, remove screenshots folder(not important to the extension).
 2. Go to chrome://extensions/ .
 3. At the top right, turn on Developer mode.
 4. Click Load unpacked.
-5. Find and select the app or extension folder.
+5. Find the unzipped folder and select.
 6. You're all set, now click on the extension icon and you can get latest live IPL match information without even leaving your current tab.
