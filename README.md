@@ -2,9 +2,9 @@
 
 View quick updates for live IPL match
 
-![Screenshot 1](/screenshots/IPLLive%20Screenshot%201.png)
+![Screenshot 1](/screenshots/IPLLive-Screenshot-1.png)
 
-![Screenshot 2](/screenshots/IPLLiveScreenshot%202.png)
+![Screenshot 2](/screenshots/IPLLive-Screenshot-2.png)
 
 * The free API used to fetch live match data has a limit of 100 requests daily. For personal usage get your own API key from [Cricketdata.org](https://cricketdata.org/) and change the data-fetching endpoint to `https://api.cricapi.com/v1/currentMatches?apikey=YOUR_API_KEY&offset=0`
 
